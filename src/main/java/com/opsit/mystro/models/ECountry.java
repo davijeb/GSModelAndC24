@@ -1,0 +1,5 @@
+package com.opsit.mystro.models;
+
+public enum ECountry {
+    USA, UNITED_KINGDOM, BRAZIL, MAROCCO, JAPAN, SWEDEN, INDIA, SPAIN, GREECE, FRANCE, SOUTH_AFRICA, PORTUGAL, AUSTRIA, GERMAN, POLIN;
+}
